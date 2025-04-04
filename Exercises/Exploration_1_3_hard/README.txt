@@ -1,3 +1,4 @@
+
 # Exercise completed
 
 Exploration 1.3 (Hard)
