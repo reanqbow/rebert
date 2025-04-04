@@ -17,7 +17,7 @@ except:
 OAI_HOST = "https://api.openai.com"
 OAI_SERVICE_ENDPOINT = "/v1/chat/completions"
 OAI_MODEL = "gpt-4-turbo-preview"
-OAI_MODEL_TEMPERATURE = 0.8
+OAI_MODEL_TEMPERATURE = 0.9
 OAI_MODEL_MAX_TOKENS = 100
 #
 #   One should never put their key right in the code like this

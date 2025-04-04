@@ -1,0 +1,42 @@
+# 1
+OAI_MODEL_TEMPERATURE = 0.9
+OAI_MODEL_MAX_TOKENS = 500
+
+You >  Recommend a movie that I should see this weekend
+
+Exercises/Exploration_1_3_hard/Exploration_1_3_hard > Given that I don't have information about your specific tastes, I'll recommend a film that has garnered widespread acclaim across different demographics and is relatively recent within the last couple of years, making it a safe bet regardless of individual preferences:
+
+**"Parasite" (2019)** - Directed by Bong Joon Ho
+
+Why you should watch it:
+1. **Critical Acclaim**: "Parasite" has received international praise for its direction, screenplay, acting, and its unique blend of genres, including dark comedy, drama, and thriller elements. It's a film that has resonated with audiences and critics worldwide, winning several prestigious awards including the Palme d'Or at Cannes and making history by winning the Academy Award for Best Picture, the first non-English language film to do so.
+
+2. **Engaging Story**: Without giving away too much, the film explores themes of class disparity, societal structure, and family dynamics through the lens of two families from vastly different socio-economic backgrounds in South Korea. Its narrative is both engaging and thought-provoking, providing plenty of material for post-viewing discussion.
+
+3. **Masterful Direction and Aesthetics**: Bong Joon Ho's direction is meticulous, with every scene crafted to convey maximum emotional and thematic impact. The cinematography, set design, and overall aesthetic of the film contribute significantly to the storytelling, making it visually compelling as well as narratively engaging.
+
+4. **Cultural Impact**: Watching "Parasite" also means engaging with a piece of cinema that has had a significant cultural impact, sparking discussions about genre, class, and the international film landscape. It's a movie that stands as a point of reference in contemporary cinema discussions.
+
+Whether you're in the mood for something meaningful, entertaining, or visually stimulating, "Parasite" delivers on all fronts. It's a movie that promises a memorable viewing experience, making it a strong recommendation for your weekend movie night.
+
+## 2 
+
+OAI_MODEL_TEMPERATURE = 0.2
+OAI_MODEL_MAX_TOKENS = 500
+
+You >  Recommend a movie that I should see this weekend
+
+Exercises/Exploration_1_3_hard/Exploration_1_3_hard > Given that I don't have your specific tastes or what you've recently watched, I'll recommend a film that has been widely acclaimed and appeals to a broad audience: "Parasite" (2019), directed by Bong Joon-ho. This South Korean black comedy thriller won the Palme d'Or at the 2019 Cannes Film Festival and made history by winning four Academy Awards, including Best Picture, Best Director, Best Original Screenplay, and Best International Feature Film. 
+
+"Parasite" is a masterful critique of social inequality, telling the story of two families on opposite ends of the economic spectrum whose lives become intertwined in unexpected ways. The film is known for its sharp social commentary, dark humor, and thrilling plot twists. It's a compelling watch that's likely to provoke thought and discussion. Whether you're into foreign films, thrillers, or are just looking for something different, "Parasite" is a must-see.
+
+## 3
+
+OAI_MODEL_TEMPERATURE = 0.2
+OAI_MODEL_MAX_TOKENS = 100
+
+You >  Recommend a movie that I should see this weekend
+
+Exercises/Exploration_1_3_hard/Exploration_1_3_hard > Since I'm not aware of your specific preferences or the movies you've already seen, I'll recommend a critically acclaimed film that many people enjoy across different tastes: "Parasite" (2019), directed by Bong Joon-ho. This South Korean black comedy thriller won several awards, including the Palme d'Or at the Cannes Film Festival and the Academy Award for Best Picture, making history as the first non-English language film to win the latter.
+
+"Parasite"
